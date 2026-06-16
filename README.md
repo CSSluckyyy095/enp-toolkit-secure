@@ -67,8 +67,7 @@ The toolkit can encrypt virtually any file type. Commonly tested formats include
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/enp-toolkit-secure.git
-cd enp-toolkit-secure
+git@github.com:CSSluckyyy095/enp-toolkit-secure.git
 ```
 
 ### Install Dependencies
